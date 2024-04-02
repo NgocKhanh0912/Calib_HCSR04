@@ -1,0 +1,10 @@
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\bin\Debug\GUI_ReadDistance.exe.config
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\bin\Debug\GUI_ReadDistance.exe
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\bin\Debug\GUI_ReadDistance.pdb
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\obj\Debug\GUI_ReadDistance.csproj.AssemblyReference.cache
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\obj\Debug\GUI_ReadDistance.Form1.resources
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\obj\Debug\GUI_ReadDistance.Properties.Resources.resources
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\obj\Debug\GUI_ReadDistance.csproj.GenerateResource.cache
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\obj\Debug\GUI_ReadDistance.csproj.CoreCompileInputs.cache
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\obj\Debug\GUI_ReadDistance.exe
+D:\HK\HK232\DLCN\BTL\BTL 2\GUI_ReadDistance\obj\Debug\GUI_ReadDistance.pdb
