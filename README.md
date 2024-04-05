@@ -1,4 +1,4 @@
-This project is the Industrial Measurement subject project that I studied in semester 232. The project content is as follows:
+This project is the Industrial Measurement subject project that I am studying in semester 232. The project content is as follows:
 
 1. The ESP32 communicates with a WinForm on a computer via UART to transmit, receive data, and display the distance on the WinForm. The WinForm will send down calibration parameters to the ESP32.
    
